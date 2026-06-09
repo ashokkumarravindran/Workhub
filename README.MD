@@ -1,12 +1,18 @@
-WorkHub
-Overview
+## WorkHub
+
+## Overview
+
 WorkHub is a concept exploration that reimagines how professionals interact with work in an increasingly AI-assisted enterprise environment.
 Today’s digital workplace is fragmented across email, chat, calendars, documents, project management systems, knowledge repositories, dashboards, and enterprise applications. Employees spend significant time determining what requires attention, where information exists, and what action should happen next.
 WorkHub explores a different model.
 Instead of navigating applications, users interact with a unified AI-orchestrated workspace that continuously synthesizes signals from multiple systems and surfaces the most relevant actions, decisions, information, and context at the moment they are needed.
 The goal is not to replace existing enterprise applications, but to provide an intelligent orchestration layer above them.
+
+## App URL:
+https://workhub-six-wheat.vercel.app/
+
 ⸻
-Current Status
+## Current Status
 This project is currently at the Concept Stage.
 The current implementation is intended to communicate the vision, user experience, information architecture, and interaction model behind WorkHub.
 It should be viewed as a design concept and prototype rather than a production-ready application.
@@ -17,8 +23,11 @@ The focus of this release is validating:
 	●	Unified work surfaces
 	●	Intelligent attention management
 	●	Enterprise AI interaction patterns
+
 ⸻
-Concept Demonstrated Today
+
+## Concept Demonstrated Today
+
 The current concept explores:
 Start Here
 A dynamic recommendation engine that surfaces the single most important task requiring user attention.
@@ -35,8 +44,10 @@ Current concept includes:
 	●	Market information
 	●	News
 Weather currently demonstrates a live API integration.
+
 ⸻
-Future MVP
+
+## Future MVP
 The first MVP is expected to move beyond concept validation and establish real enterprise integrations.
 Potential MVP scope includes:
 Outlook Integration
@@ -53,8 +64,10 @@ AI Prioritization Engine
 	●	Personalized recommendations
 	●	Context-aware task ranking
 	●	Dynamic focus management
+
 ⸻
-Future Vision
+
+## Future Vision
 The long-term vision for WorkHub includes:
 Enterprise Context Graph
 Connecting:
@@ -93,8 +106,10 @@ Users may configure personalized perspectives including:
 	●	Month
 	●	Custom Views
 based on role, priorities, and preferred working styles.
+
 ⸻
-Design Principles
+
+## Design Principles
 WorkHub is guided by the following principles:
 	1.	Reduce cognitive load.
 	2.	Surface the right information at the right moment.
@@ -102,8 +117,10 @@ WorkHub is guided by the following principles:
 	4.	Keep humans accountable for decisions.
 	5.	Use AI to orchestrate, not overwhelm.
 	6.	Create a calm, focused work environment.
+
 ⸻
-Author
+
+## Author
 Created and maintained by
 Ashok Kumar RavindranSenior Consultant, Experience Design
 This project represents an exploration of future enterprise work experiences and human-AI interaction models.

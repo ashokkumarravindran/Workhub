@@ -9,7 +9,9 @@ The intent is not to restrict innovation or collaboration, but to preserve the i
 Contributions, feedback, discussions, and partnership opportunities are welcome.
 For collaboration inquiries, please contact:
 Ashok Kumar RavindranSenior Consultant, Experience Design
+
 ⸻
-Guiding Principle
+
+## Guiding Principle
 If WorkHub inspires future products, prototypes, research, or implementations, the preferred outcome is collaboration rather than duplication.
 The vision is larger than any single implementation, and thoughtful collaboration helps ensure that the underlying ideas continue to evolve in meaningful ways.
